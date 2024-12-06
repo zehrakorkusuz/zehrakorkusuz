@@ -30,35 +30,59 @@
 🌿 I like to think and try new ideas. & When away from the computer, I enjoy literature📚, ice skating❄️, and spending time outdoors. 
 
 ---
-## 💻 My Technical Skills
+<div align="left">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
+### **Machine Learning/AI Tools**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" title="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" title="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo" title="RStudio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" title="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" title="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" title="NumPy" />
 
-### Frameworks & Libraries 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) 
+</div>
 
-### Expertise
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logoColor=white) 
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=white) 
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-102230?style=flat-square&logo=opencv&logoColor=white) 
-![Natural Language Processing](https://img.shields.io/badge/-NLP-102230?style=flat-square&logo=spacy&logoColor=white) 
+<div align="left">
 
-### Platforms & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![LATEX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) 
+### **Programming Languages**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" title="C" />
 
+</div>
 
-### Operating Systems
-![Unix](https://img.shields.io/badge/Unix-000000?style=flat-square&logo=unix&logoColor=white)  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)  
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+<div align="left">
+
+### **Development Tools**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" title="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo" title="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo" title="Jenkins" />
+
+</div>
+
+<div align="left">
+
+### **Cloud and DevOps Tools**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="30" alt="unix logo" title="Unix" />
+
+</div>
+
+<div align="left">
+
+### **Design Tools**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo" title="Canva" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" title="Figma" />
+
+</div>
+
 ---
 
 ## 🚀 Projects
@@ -71,25 +95,13 @@ Here are some of the exciting projects I’ve been working on:
 - **[Local Sequence Alignment](https://github.com/zehrakorkusuz/Local-Sequence-Alignment)**: Implemented the **Smith-Waterman Algorithm** for local sequence alignment in bioinformatics.
 - **[Metagenomic Analysis]()**: Characterized the oral microbiome using **uSGB analysis**.
 - **[Knowledge Graph Engineering]()**: Developed a knowledge graph to map **Trentino Healthcare Facilities** for improved accessibility.
-- **[Interactive Model Inspection for Multi-Class Multi-Label Language Models]()**:Using Plotly, t-sne method and embeddings to detect any issues  (will add the code)
-
----
-
-## 📄 Resume
-
-If you’d like to know more about my professional journey and skills, feel free to download my resume below:
-
-<p align="center">
-    <a href="https://github.com/zehrakorkusuz/zehrakorkusuz/raw/main/RESUME_zehra_korkusuz.pdf" download="Zehra_Korkusuz_Resume">
-    <img src="https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Resume">
-  </a>
-</p>
+- **[Interactive Model Inspection for Multi-Class Multi-Label Language Models]()**: Using Plotly, t-sne method, and embeddings to detect any issues  (will add the code)
 
 ---
 
 ## 🌍 Contact me
 
+Feel free to contact me, I am open to collaborating and volunteering for interesting ideas. 
+
 - **Email**: [zehra.korkusuz@studenti.unitn.it](mailto:zehra.korkusuz@studenti.unitn.it)
-- **Kaggle**: [Zehra Korkusuz on Kaggle](https://www.kaggle.com/zehrakorkusuz)
-- **Twitter**: [@zehrakorkusuz](https://twitter.com/wzehrakorkusuz)
-- **Goodreads**: [Zehra Korkusuz on Goodreads]([https://www.goodreads.com/user/show/zehrakorkusuz](https://www.goodreads.com/user/show/25151944-zehra))
+- **Linkedin**: [Zehra Korkusuz](linkedin.com/in/zehrakorkusuz)
