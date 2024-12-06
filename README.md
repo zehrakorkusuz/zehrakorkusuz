@@ -101,7 +101,7 @@ Here are some of the exciting projects I’ve been working on:
 
 ## 🌍 Contact me
 
-Feel free to contact me, I am open to collaborating and volunteering for interesting ideas. 
+Feel free to reach out if you're looking for a research collaborator—I enjoy engaging in discussions and am open to volunteering on ideas that have the potential to make a meaningful impact. 🌱
 
 - **Email**: [zehra.korkusuz@studenti.unitn.it](mailto:zehra.korkusuz@studenti.unitn.it)
 - **Linkedin**: [Zehra Korkusuz](linkedin.com/in/zehrakorkusuz)
