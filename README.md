@@ -3,7 +3,7 @@
 (P.S. This readme section is not complete yet. It will be completed by 8th Dec.)
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/zehra-korkusuz/">
+  <a href="https://www.linkedin.com/in/zehrakorkusuz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>&nbsp;&nbsp;
   <a href="mailto:zehra.korkusuz@studenti.unitn.it">
