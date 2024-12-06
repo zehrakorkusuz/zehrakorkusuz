@@ -12,10 +12,10 @@
   <a href="https://www.kaggle.com/zehrakorkusuz">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/zehrakorkusuz">
+  <a href="https://twitter.com/wzehrakorkusuz">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>&nbsp;&nbsp;
-  <a href="https://www.goodreads.com/user/show/zehrakorkusuz">
+  <a href="https://www.goodreads.com/user/show/25151944-zehra">
     <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads">
   </a>
 </p>
