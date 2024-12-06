@@ -71,6 +71,7 @@ Here are some of the exciting projects I’ve been working on:
 - **[Local Sequence Alignment](https://github.com/zehrakorkusuz/Local-Sequence-Alignment)**: Implemented the **Smith-Waterman Algorithm** for local sequence alignment in bioinformatics.
 - **[Metagenomic Analysis]()**: Characterized the oral microbiome using **uSGB analysis**.
 - **[Knowledge Graph Engineering]()**: Developed a knowledge graph to map **Trentino Healthcare Facilities** for improved accessibility.
+- **[Interactive Model Inspection for Multi-Class Multi-Label Language Models]()**:Using Plotly, t-sne method and embeddings to detect any issues  (will add the code)
 
 ---
 
