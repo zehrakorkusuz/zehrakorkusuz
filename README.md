@@ -23,7 +23,7 @@
 ---
 🎓 Pursuing a Master's Degree in Computer Science at the University of Trento, Italy. 🇮🇹
 
-🔭 Working on a cutting-edge research project in multi-media forensics, developing unsupervised generator-agnostic algorithms to detect generated or altered media by extracting high-level semantic features. 🕵️‍♂️
+🔍As part of my MSc thesis, I am developing unsupervised, generator-agnostic algorithms for detecting generated or altered media by extracting high-level semantic features, contributing to an EU-funded multimedia forensics project. 🕵️‍♂🇪🇺
 
 🧠 Exploring neuroscience, particularly system neuroscience, with curiosity and a desire to exploit multi-modal fusion techniques in AI such as contrastive learning 🔬
 
