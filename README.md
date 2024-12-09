@@ -91,8 +91,8 @@ Here are some of the exciting projects I’ve been working on:
 - **[Multimodal RAG](https://github.com/zehrakorkusuz/MultimodalRAG)**: Designed a secure and CPU-efficient retrieval-augmented generation system for genetic research.
 - **[DeepFake Detection](https://github.com/zehrakorkusuz/DeepFakeDetection)** A non-linear classifier using **CLIP features** and a non-linear classifier for detecting AI-generated multimedia.
 - **[Local Sequence Alignment](https://github.com/zehrakorkusuz/Local-Sequence-Alignment)**: Implemented the **Smith-Waterman Algorithm** for local sequence alignment in bioinformatics.
-- **[Metagenomic Analysis]()**: Characterized the oral microbiome using **uSGB analysis**.
-- **[Knowledge Graph Engineering]()**: Developed a knowledge graph to map **Trentino Healthcare Facilities** for improved accessibility.
+- **[Metagenomic Analysis](https://github.com/zehrakorkusuz/Microbial_Genomics)**: Characterized the oral microbiome using **uSGB analysis**.
+- **[Knowledge Graph Engineering](https://github.com/zehrakorkusuz/Trentino-Healthcare-Knowledge-Graph-Project)**: Developed a knowledge graph to map **Trentino Healthcare Facilities** for improved accessibility.
 - **[Interactive Model Inspection for Multi-Class Multi-Label Language Models]()**: Using Plotly, t-sne method, and embeddings to detect any issues  (will add the code)
 
 ---
