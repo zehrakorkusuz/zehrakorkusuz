@@ -100,21 +100,23 @@ Here are some of the exciting projects I’ve been working on:
 </table>
 
 ## 📂 Industrial Experience
-- **Foster Insight**: Founder & CEO (2019 - 2022) 🏢
+> **Foster Insight**: Founder & CEO (2019 - 2022) 🏢
   - Led the development of Turkish NLP solutions for the banking industry, including ontologies and domain-specific resources for language models.
   - Managed a team to deliver NLP services and APIs to enhance customer interactions, automate document processing, and streamline document reviewing using advanced NLP algorithms.
-  - Secured `TÜBİTAK BIGG 1512 R&D Fund` (2020-2021).  <span style="background-color: #ffcc00; color: black; padding: 4px 8px; border-radius: 4px;"> TRL 4-5 | Prototype</span> 
+  - Secured `TÜBİTAK BIGG 1512 R&D Fund` (2020-2021)  
+  `TRL 4-5`
 
 
-- **Philip Morris International**: Global Data & Analytics Lead (Jun 2022 - Mar 2023) 🌍 
-  - Coordinated the rollout of AI projects in compliance with global company standards, focusing on predictive maintenance at the factory as a subject matter expert  <span style="background-color: #002333; color: white; padding: 4px 8px; border-radius: 4px;"> TRL 8-9 | Production </span>  
 
-- **Wonderflow**: Curricular ML/NLP Intern (Aug 2023 - Feb 2024) 🤖
+> **Philip Morris International**: Global Data & Analytics Lead (Jun 2022 - Mar 2023) 🌍 
+  - Coordinated the rollout of AI projects in compliance with global company standards, focusing on predictive maintenance at the factory as a subject matter expert  `TRL 8-9`
+
+> **Wonderflow**: Curricular ML/NLP Intern (Aug 2023 - Feb 2024) 🤖
   - Trained multi-class transformer models in Turkish and developed a QA pipeline to transform sentence transformers into segmented models using OpenAI.
-  - Created an interactive model inspection tool for linguists <span style="background-color: #159A9C; color: white; padding: 4px 8px; border-radius: 4px;">TRL 7-8 | Validation </span>  
+  - Created an interactive model inspection tool for linguists `TRL 7-8`
 
-- **TrueBees**: (Thesis) Research Intern (Aug 2024 - ongoing) 🔬
-  - Working on my MSc thesis, focusing on multimedia forensics <span style="background-color: #ffcc00; color: black; padding: 4px 8px; border-radius: 4px;"> TRL 3-4 | Prototype </span>  
+> **TrueBees**: (Thesis) Research Intern (Aug 2024 - ongoing) 🔬
+  - Working on my MSc thesis, focusing on multimedia forensics  `TRL 3-4`
 
 
 <sup>*Technology Readiness Levels (TRL) are a method for estimating the maturity of technologies during the acquisition phase of a program. The scale ranges from 1 to 9, with 9 being the most mature technology. For more information, refer to the [European Commission's TRL guidelines](https://ec.europa.eu/research/participants/data/ref/h2020/wp/2014_2015/annexes/h2020-wp1415-annex-g-trl_en.pdf).</sup>
