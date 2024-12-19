@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zehra Korkusuz 👋</h1>
+<h1 align="center">Hi, I'm Zehra 👋</h1>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/zehrakorkusuz/">
@@ -23,7 +23,7 @@
 
 🔍As part of my MSc thesis, I am developing unsupervised, generator-agnostic algorithms for detecting generated or altered media by extracting high-level semantic features, contributing to an EU-funded multimedia forensics project. 🕵️‍♂🇪🇺
 
-🧠 Exploring neuroscience, particularly system neuroscience, with curiosity and a desire to exploit multi-modal fusion techniques in AI such as contrastive learning 🔬
+💡 Interested in Medical AI and NeuroAI applications, leveraging multi-modal fusion techniques like contrastive learning to advance system-level insights in healthcare and neuroscience.🧠
 
 🌿 I like to think and try new ideas. & When away from the computer, I enjoy literature📚, ice skating❄️, and spending time outdoors. 
 
@@ -88,7 +88,7 @@
 Here are some of the exciting projects I’ve been working on:
 
 - **[Test-Time Domain Adaptation](https://github.com/zehrakorkusuz/test_time_training_dl_domain_adaptation)**: Reimplementation of "MEMO: Test Time Robustness via Adaptation and Augmentation. Applied to the **ImageNet-A dataset** to handle domain shifts in image classification.
-- **[Multimodal RAG](https://github.com/zehrakorkusuz/MultimodalRAG)**: Designed a secure and CPU-efficient retrieval-augmented generation system for genetic research.
+- **[Multimodal RAG](https://github.com/zehrakorkusuz/PaperRAG)**: Designed a secure and CPU-efficient retrieval-augmented generation system for genetic research. The paper is set to be submitted as a preprint shortly.
 - **[DeepFake Detection](https://github.com/zehrakorkusuz/DeepFakeDetection)** A non-linear classifier using **CLIP features** and a non-linear classifier for detecting AI-generated multimedia.
 - **[Local Sequence Alignment](https://github.com/zehrakorkusuz/Local-Sequence-Alignment)**: Implemented the **Smith-Waterman Algorithm** for local sequence alignment in bioinformatics.
 - **[Metagenomic Analysis](https://github.com/zehrakorkusuz/Microbial_Genomics)**: Characterized the oral microbiome using **uSGB analysis**.
