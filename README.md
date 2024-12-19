@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Zehra 👋</h1>
 
+<br>
 <p align='center'>
   <a href="https://www.linkedin.com/in/zehrakorkusuz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -19,6 +20,7 @@
 </p>
 
 ---
+
 🎓 Pursuing a Master's Degree in Computer Science at the University of Trento, Italy. 🇮🇹
 
 🔍As part of my MSc thesis, I am developing unsupervised, generator-agnostic algorithms for detecting generated or altered media by extracting high-level semantic features, contributing to an EU-funded multimedia forensics project. 🕵️‍♂🇪🇺
@@ -32,32 +34,33 @@
 
 <div align="left">
   <a href="https://github.com/zehrakorkusuz">
-    <img src="https://github-readme-stats.vercel.app/api?username=zehrakorkusuz&theme=graywhite&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&" alt="Zehra's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=zehrakorkusuz&theme=shadow_blue&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&" alt="Zehra's GitHub stats" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/zehrakorkusuz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zehrakorkusuz&hide=html,scss,stylus,blade,jupyter%20notebook,css,batchfile,dockerfile,typescript&theme=graywhite&show_icons=true&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zehrakorkusuz&hide=html,scss,stylus,blade,jupyter%20notebook,css,batchfile,dockerfile,typescript&theme=shadow_blue&show_icons=true&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
   </a>
 </div>
 
----
 
-## 🚀 Projects
+
+
+<h2 style="color: #002333;">&#x003C;&#x002F;&#x003E; Projects</h2>
 
 Here are some of the exciting projects I’ve been working on:
 
-- **[Test-Time Domain Adaptation](https://github.com/zehrakorkusuz/test_time_training_dl_domain_adaptation)**: Reimplementation of "MEMO: Test Time Robustness via Adaptation and Augmentation. Applied to the **ImageNet-A dataset** to handle domain shifts in image classification.
-- **[Multimodal RAG](https://github.com/zehrakorkusuz/PaperRAG)**: Designed a secure and CPU-efficient retrieval-augmented generation system for genetic research. The paper is set to be submitted as a preprint shortly.
-- **[DeepFake Detection](https://github.com/zehrakorkusuz/DeepFakeDetection)** A non-linear classifier using **CLIP features** and a non-linear classifier for detecting AI-generated multimedia.
-- **[Local Sequence Alignment](https://github.com/zehrakorkusuz/Local-Sequence-Alignment)**: Implemented the **Smith-Waterman Algorithm** for local sequence alignment in bioinformatics.
-- **[Metagenomic Analysis](https://github.com/zehrakorkusuz/Microbial_Genomics)**: Characterized the oral microbiome using **uSGB analysis**.
-- **[Knowledge Graph Engineering](https://github.com/zehrakorkusuz/Trentino-Healthcare-Knowledge-Graph-Project)**: Developed a knowledge graph to map **Trentino Healthcare Facilities** for improved accessibility.
-- **[Interactive Model Inspection for Multi-Class Multi-Label Language Models]()**: Using Plotly, t-sne method, and embeddings to detect any issues  (will add the code)
+- **<a href="https://github.com/zehrakorkusuz/test_time_training_dl_domain_adaptation" style="color: #002333;">Test-Time Domain Adaptation</a>**: Reimplementation of "MEMO: Test Time Robustness via Adaptation and Augmentation. Applied to the **ImageNet-A dataset** to handle domain shifts in image classification.
+- **<a href="https://github.com/zehrakorkusuz/PaperRAG" style="color: #002333;">Multimodal RAG</a>**: Designed a secure and CPU-efficient retrieval-augmented generation system for genetic research. The paper is set to be submitted as a preprint shortly.
+- **<a href="https://github.com/zehrakorkusuz/ClipBased-SyntheticImageDetection" style="color: #002333;">DeepFake Detection</a>**: A non-linear classifier using **CLIP features** and a non-linear classifier for detecting AI-generated multimedia.
+- **<a href="https://github.com/zehrakorkusuz/Local-Sequence-Alignment" style="color: #002333;">Local Sequence Alignment</a>**: Implemented the **Smith-Waterman Algorithm** for local sequence alignment in bioinformatics.
+- **<a href="https://github.com/zehrakorkusuz/Microbial_Genomics" style="color: #002333;">Metagenomic Analysis</a>**: Characterized the oral microbiome using **uSGB analysis**.
+- **<a href="https://github.com/zehrakorkusuz/Trentino-Healthcare-Knowledge-Graph-Project" style="color: #002333;">Knowledge Graph Engineering</a>**: Developed a knowledge graph to map **Trentino Healthcare Facilities** for improved accessibility.
+- **<a href="#" style="color: #002333;">Interactive Model Inspection for Multi-Class Multi-Label Language Models</a>**: Using Plotly, t-sne method, and embeddings to detect any issues (will add the code).
 
 
 <table>
   <tr>
     <td align="center">
-      <h3>Machine Learning/AI Tools</h3>
+      <h3>Machine Learning/AI Tools </h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" title="PyTorch" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" title="TensorFlow" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo" title="RStudio" />
@@ -97,8 +100,26 @@ Here are some of the exciting projects I’ve been working on:
   </tr>
 </table>
 
+## 📂 Industrial Experience
+- **Foster Insight**: Founder & CEO (2019 - 2022) 🏢
+  - Led the development of Turkish NLP solutions for the banking industry, including ontologies and domain-specific resources for language models.
+  - Managed a team to deliver NLP services and APIs to enhance customer interactions, automate document processing, and streamline document reviewing using advanced NLP algorithms.
+  - Secured `TÜBİTAK BIGG 1512 R&D Fund` (2020-2021).  <span style="background-color: #ffcc00; color: black; padding: 4px 8px; border-radius: 4px;"> Prototype</span> 
 
-## 🌍 Contact me
+
+- **Philip Morris International**: Global Data & Analytics Lead (Jun 2022 - Mar 2023) 🌍 
+  - Coordinated the rollout of AI projects in compliance with global company standards, focusing on predictive maintenance at the factory as a subject matter expert  <span style="background-color: #002333; color: white; padding: 4px 8px; border-radius: 4px;"> Roll-out</span>  
+
+- **Wonderflow**: Curricular ML/NLP Intern (Aug 2023 - Feb 2024) 🤖
+  - Trained multi-class transformer models in Turkish and developed a QA pipeline to transform sentence transformers into segmented models using OpenAI.
+  - Created an interactive model inspection tool for linguists <span style="background-color: #159A9C; color: white; padding: 4px 8px; border-radius: 4px;">Deployed</span>  
+
+- **TrueBees**: (Thesis) Research Intern (Aug 2024 - ongoing) 🔬
+  - Working on my MSc thesis, focusing on multimedia forensics <span style="background-color: #ffcc00; color: black; padding: 4px 8px; border-radius: 4px;"> Prototype</span>  
+
+
+
+## ➤ Contact me
 
 Feel free to reach out if you're looking for a research collaborator—I enjoy engaging in discussions and am open to volunteering on ideas that have the potential to make a meaningful impact. 🌱
 
