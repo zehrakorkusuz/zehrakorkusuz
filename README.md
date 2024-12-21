@@ -24,7 +24,7 @@
 
 🔍As part of my MSc thesis, I am developing unsupervised, generator-agnostic algorithms for detecting generated or altered media by extracting high-level semantic features, contributing to an EU-funded multimedia forensics project. 🕵️‍♂🇪🇺
 
-💡 Interested in Medical AI and NeuroAI applications, leveraging multi-modal fusion techniques like contrastive learning to advance system-level insights in healthcare and neuroscience.🧠
+💡 Interested in Medical AI and NeuroAI applications, leveraging multi-modal fusion techniques like contrastive learning to advance system-level insights in healthcare and neuroscience and [like to ask questions](https://www.researchgate.net/post/How_does_our_brain_discover_similarity_in_the_midst_of_so_big_noisy_data). 🧠
 
 🌿 I like to think and try new ideas. & When away from the computer, I enjoy literature📚, ice skating❄️, and spending time outdoors. 
 
