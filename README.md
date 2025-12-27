@@ -26,19 +26,6 @@
 
 🌿 I like to think and try new ideas. & When away from the computer, I enjoy literature📚, ice skating❄️, and spending time outdoors. 
 
----
-
-
-<div align="left">
-  <a href="https://github.com/zehrakorkusuz">
-    <img src="https://github-readme-stats.vercel.app/api?username=zehrakorkusuz&theme=shadow_blue&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&" alt="Zehra's GitHub stats" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/zehrakorkusuz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zehrakorkusuz&hide=html,scss,stylus,blade,jupyter%20notebook,css,batchfile,dockerfile,typescript&theme=shadow_blue&show_icons=true&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
-  </a>
-</div>
-
-
 
 
 <h2 style="color: #002333;">&#x003C;&#x002F;&#x003E; Projects</h2>
