@@ -26,7 +26,7 @@
 
 🌿 I like to think and try new ideas. & When away from the computer, I enjoy literature📚, ice skating❄️, and spending time outdoors. 
 
-
+![Zehra's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=zehrakorkusuz&show_icons=true&theme=transparent)
 
 <h2 style="color: #002333;">&#x003C;&#x002F;&#x003E; Projects</h2>
 
